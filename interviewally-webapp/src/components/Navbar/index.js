@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react'
 import {Nav,NavBarContainer,NavLogo,MobileIcon,NavMenu,NavItems,NavLinks,NavBtn,NavBtnLink} from './NavbarElement'
-import styled from "styled-components";
+
 import {FaBars} from 'react-icons/fa';
 import {animateScroll as scroll } from 'react-scroll'
 
