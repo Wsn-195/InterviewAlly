@@ -60,7 +60,7 @@ text-decoration:none;
 color:#fff;
 cursor:pointer;
 
-$:hover{
+&:hover{
     color:#01bf71;
     transition:02s ease-in-out;
 }
